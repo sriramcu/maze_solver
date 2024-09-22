@@ -1,6 +1,5 @@
 # maze_solver
-Creates and solves mazes graphically.
-
+Graphical maze creator and solver- GUI implemented in Python and maze search algorithms using DFS and BFS implemented in C.
 ### Usage
 Steps:  
 1. Steps 2 to 5 are meant to show the user the operation of this program. **Steps 6 onward are for custom made mazes.**
